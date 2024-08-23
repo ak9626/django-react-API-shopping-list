@@ -30,3 +30,6 @@ Backend URL
 Django Backend: By default, when you run the Django development server locally, it starts on http://127.0.0.1:8000/ or http://localhost:8000/.
 Frontend URL
 React Frontend: By default, when you run the React development server locally, it starts on http://localhost:3000/.
+
+<img width="935" alt="image" src="https://github.com/user-attachments/assets/ec8b4dcd-877a-4c67-a433-ba444aceb50a">
+
