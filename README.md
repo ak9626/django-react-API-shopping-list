@@ -26,12 +26,7 @@ Before you begin, ensure you have the following installed on your machine:
 - **Python** (with pip) - for running the backend
 - **Git** - for version control (optional but recommended)
 
-## Getting Started
-
-### 1. Clone the Repository
-
-First, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/shopping-list-app.git
-cd shopping-list-app
+Backend URL
+Django Backend: By default, when you run the Django development server locally, it starts on http://127.0.0.1:8000/ or http://localhost:8000/.
+Frontend URL
+React Frontend: By default, when you run the React development server locally, it starts on http://localhost:3000/.
